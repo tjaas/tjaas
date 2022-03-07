@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tjaas
 - 👀 I’m interested in Digital Twins on Unreal Engine.
 - 🌱 I’m currently learning C++ and Unreal Engine.
-- 💞️ I’m looking to collaborate on making digital twins in the tourism and arquitectue sectors. 
+- 💞️ I’m looking to collaborate on making digital twins in the Tourism and Architecture sectors. 
 - 📫 How to reach me on my email tiagoalmeidasousa@outlook.com
 
 <!---
